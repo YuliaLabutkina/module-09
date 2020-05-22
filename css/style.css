@@ -115,6 +115,10 @@ header {
   margin: 0 0 1.2rem;
 }
 
+.header__title-item {
+  display: block;
+}
+
 .header__text {
   color: var(--main-color);
   font-family: var(--secondary-font);
@@ -254,6 +258,7 @@ a.partners__link-see-other {
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
+
   li.partners__list-item-first,
   li.partners__list-item-thisd {
     margin-bottom: 5.8rem;
