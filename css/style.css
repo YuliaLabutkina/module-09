@@ -39,6 +39,10 @@
   --secondary-font: "Roboto", sans-serif;
   --main-color: #ffffff;
   --secondary-color: #333333;
+}
+
+html,
+body {
   font-size: 62.5%;
 }
 
